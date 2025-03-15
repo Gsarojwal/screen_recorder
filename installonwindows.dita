@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kqs_fjk_r2c">
-    <title></title>
+    <title>Install on Windows</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
@@ -9,7 +9,19 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the link to install OBS Studio on Windows <xref
+                        href="https://obsproject.com/kb/windows-installation" format="html"
+                        scope="external"
+                        ><u>https://obsproject.com/kb/windows-installation</u></xref></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Download OBS Studio</b></cmd>
+            </step>
+            <step>
+                <cmd/>
+                <stepresult>
+                    <p>The download gets started.</p>
+                </stepresult>
             </step>
         </steps>
     </taskbody>
