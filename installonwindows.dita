@@ -9,13 +9,13 @@
         </context>
         <steps>
             <step>
-                <cmd>Click the link to install OBS Studio on Windows <xref
+                <cmd>Click the link to install OBS Studio on Windows. <xref
                         href="https://obsproject.com/kb/windows-installation" format="html"
                         scope="external"
                         ><u>https://obsproject.com/kb/windows-installation</u></xref></cmd>
             </step>
             <step>
-                <cmd>Click <b>Download OBS Studio</b></cmd>
+                <cmd>Click <b>Download OBS Studio</b>.</cmd>
                 <stepresult>
                     <p>The download gets started. Once the download is complete, an on-screen
                         message is displayed:<b>Thank you for Downloading OBS Studio!</b></p>
