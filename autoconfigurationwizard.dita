@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_jbt_qpk_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Run Auto-Configuration Wizard</title>
+    <shortdesc>The <b>Auto-Configuration Wizard</b> optimises OBS Studio for agents'
+        needs.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>The wizard shows the first time an Agent runs OBS Studio.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Select a suitable option to specify usage.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b><uicontrol>Next</uicontrol></b>.</cmd>
             </step>
         </steps>
+        <result id="result_i2z_nqk_r2c">The agent is redirected to the user interface of OBS
+            Studio.</result>
     </taskbody>
 </task>
