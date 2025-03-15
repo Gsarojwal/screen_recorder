@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_hpx_blk_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Install on macOS</title>
+    <shortdesc>The installation links are provided on the website. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Follow these simple steps to install OBS Studio on macOS.<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the link to install OBS Studio on macOS. <xref
+                        href="https://obsproject.com/kb/windows-installation" format="html"
+                        scope="external"><u>https://obsproject.com/kb/mac-installation</u>
+                    </xref></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Download OBS Studio.</b></cmd>
+                <stepresult>The agent is redirected on another screen for choosing
+                    macOS.</stepresult>
+            </step>
+            <step>
+                <cmd>Click<b>
+                        <b>Download Installer (x86_64/Intel)</b>
+                    </b>or<b>
+                        <b>Download Installer (arm64/Apple Silicon)</b>.</b>.</cmd>
+                <stepresult>
+                    <p>The download gets started. Once the download is complete, an on-screen
+                        message is displayed: <b>Thank you for Downloading OBS Studio!</b></p>
+                </stepresult>
             </step>
         </steps>
     </taskbody>
