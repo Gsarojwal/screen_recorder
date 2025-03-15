@@ -2,11 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kqs_fjk_r2c">
     <title>Install on Windows</title>
-    <shortdesc>Follow these simple steps to install OBS Studio on Windows OS.</shortdesc>
+    <shortdesc>The installation links are provided on the website. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Follow these simple steps to install OBS Studio on Windows OS.<p/></context>
         <steps>
             <step>
                 <cmd>Click the link to install OBS Studio on Windows. <xref
