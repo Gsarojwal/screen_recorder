@@ -5,4 +5,10 @@
     <topicref href="Installation.dita">
         <topicref href="Task.dita"/>
     </topicref>
+    <topicref href="introduction.dita"/>
+    <topicref href="installation.dita">
+        <topicref href="systemrequirements.dita"/>
+        <topicref href="installonwindows.dita"/>
+        <topicref href="installonmacos.dita"/>
+    </topicref>
 </map>
