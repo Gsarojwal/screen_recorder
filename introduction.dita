@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_kxy_g3k_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Introduction</title>
+    <shortdesc>This user guide is intended to help acquaint the Customer Support Agents install and
+        work on OBS Studio.</shortdesc>
     <conbody>
-        <p></p>
+        <p dir="ltr"><xref href="https://obsproject.com/" format="html" scope="external"><u>OBS
+                    Studio</u></xref> is a free and open source software for screen recording and
+            live streaming. For Customer Support Agents, OBS Studio can be incredibly useful in
+            several ways as it offers:</p>
+        <ul id="ul_owf_k3k_r2c">
+            <li dir="ltr">
+                <p dir="ltr">Compatibility for Windows, macOS, and Linux operating systems.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Multiple-screen recording while the agents are on call with
+                    customers.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Pause recording button to avoid capturing sensitive information of
+                    customers.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Recording logs creation and management</p>
+            </li>
+        </ul>
     </conbody>
 </concept>
