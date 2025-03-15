@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gvv_y13_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Installation</title>
+    <shortdesc>It talks</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This information<p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open the browser</cmd>
             </step>
         </steps>
     </taskbody>
