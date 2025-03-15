@@ -11,4 +11,7 @@
         <topicref href="installonwindows.dita"/>
         <topicref href="installonmacos.dita"/>
     </topicref>
+    <topicref href="gettingstarted.dita">
+        <topicref href="startrecording.dita"/>
+    </topicref>
 </map>
