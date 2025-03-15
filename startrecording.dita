@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_t41_wqk_r2c">
-    <title></title>
+    <title>Recording Settings</title>
     <body>
-        <p></p>
+        <p>When an agent starts OBS Studio, they start with a blank <b>Scene</b> by default. They
+            can add all kinds of <b>Sources</b> — to show browsers, window capture, display capture
+            webcam, etc.</p>
     </body>
 </topic>
