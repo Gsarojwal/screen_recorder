@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ayx_4h3_r2c">
-    <title></title>
+    <title>System Requirements</title>
+    <shortdesc>The system requirements vary for specific operating systems. these are mentioned
+        below.</shortdesc>
     <body>
-        <p></p>
+        <p dir="ltr">OBS Studio requires the following hardware and operating systems to function. </p>
+        <p dir="ltr">Windows</p>
+        <ul id="ul_bq4_th3_r2c">
+            <li dir="ltr">
+                <p dir="ltr">DirectX 10.1 compatible GPU</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Windows 10, or Windows 11</p>
+            </li>
+        </ul>
+        <p dir="ltr">macOS</p>
+        <ul id="ul_dq4_th3_r2c">
+            <li dir="ltr">
+                <p dir="ltr">Intel or Apple Silicon CPU</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">OpenGL 3.3-compatible GPU</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">macOS 11 ("Big Sur") or later</p>
+            </li>
+        </ul>
+        <p dir="ltr">Linux/Unix</p>
+        <ul id="ul_gq4_th3_r2c">
+            <li dir="ltr">
+                <p dir="ltr">OpenGL 3.3-compatible GPU</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">X window system or Wayland</p>
+            </li>
+        </ul>
     </body>
 </topic>
