@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_a32_jtr_r2c">
-    <title>Capture Window</title>
+    <title>Window Capture</title>
     <shortdesc>An Agent can capture a selected window in a browser to showcase it while interacting
         with a customer and/or while recording a screen.</shortdesc>
     <taskbody>
-        <context>This section contains the steps to a capture window during screen
+        <context>This section contains the steps to capture window during screen
             recording.</context>
         <steps>
             <step>
-                <cmd>Click ‘+’ in <b>Sources </b>control tab.</cmd>
+                <cmd>Click ‘<b>+</b>’ in <b>Sources</b> tab.</cmd>
             </step>
             <step>
-                <cmd>Select window from the drop-down options.</cmd>
+                <cmd>Select <b>Window</b> from the drop-down options.</cmd>
             </step>
             <step>
                 <cmd>Check to select <b>Capture Method</b> as <b>Automatic</b>.</cmd>
             </step>
             <step>
-                <cmd>Keep default <b>Window Match Priorty</b>.</cmd>
+                <cmd>Keep default <b>Window Match Priority</b>.</cmd>
             </step>
             <step>
                 <cmd>Check to select <b>Capture Cursor</b>. </cmd>
             </step>
             <step>
-                <cmd>Select <b>OK</b>.</cmd>
+                <cmd>Select <b>OK</b>.<image href="windowcapture.PNG" id="image_sgg_zvs_r2c"/></cmd>
+                <stepresult>The window (along with the tabs) to be captured is
+                    configured.</stepresult>
             </step>
         </steps>
     </taskbody>
