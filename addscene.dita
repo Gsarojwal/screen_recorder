@@ -5,15 +5,15 @@
     <shortdesc>To start recording, a <b>Scene </b>is to be added. There can be multiple
             <b>Scenes</b> which an agent can change and display while screen recording.</shortdesc>
     <taskbody>
-        <context>This section showcases the steps to add a scene on <b>Windows</b> operating
-                    system.<p><b>OBS Studio </b>starts with a blank scene by default. Agents can add
-                all kinds of <b>Sources</b> to the <b>Scenes</b> — to show browser, Window<b
-                > </b>screen capture, display capture, webcam, etc. Follow the below steps to add a
-                scene and sources within.</p></context>
+        <context>This section showcases the steps to add a scene on <b>Windows</b>.<p><b>OBS Studio
+                </b>starts with a blank scene by default. Agents can add all kinds of <b>Sources</b>
+                to the <b>Scenes</b> — to show browser, Window<b> </b>screen capture, display
+                capture, webcam, etc. Follow the below steps to add a scene and sources
+            within.</p></context>
         <steps>
             <step>
-                <cmd>At the bottom of the main window, click the '+' icon in the <b>Scenes</b>
-                    control tab.</cmd>
+                <cmd>At the bottom of the main window, click '<b>+</b>' icon in <b>Scenes</b>
+                        tab.<image href="scenes.PNG" id="image_wrv_q5s_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Enter <b>Scene</b> name.</cmd>
@@ -23,17 +23,18 @@
                 <stepresult>A new scene gets created.</stepresult>
             </step>
             <step>
-                <cmd>Click the '+' icon in the <b>Sources</b> control tab.</cmd>
-                <stepresult>A list of different sources is displayed.<note id="note_ih1_pbs_r2c"
-                        >Refer to the sections on<xref href="browser.dita"/>, Window capture <xref
-                            href="windowcapture.dita"/>, Display capture and Webcam capture to
-                        configure further settings. </note><note id="note_jxp_xvr_r2c">For
+                <cmd>Click '+' icon in <b>Sources</b> tab.</cmd>
+                <stepresult>A list of different sources is displayed.<image href="sources.PNG"
+                        id="image_yy4_v5s_r2c"/><note id="note_ih1_pbs_r2c" type="important">Refer
+                        to the sections on<xref href="browser.dita"/>, Window capture <xref
+                            href="windowcapture.dita"/>, <xref href="capturedisplay.dita"/> and<xref
+                            href="videocapture.dita"/> to configure further settings. <div/>The
+                        screen capture functionality is not available on <b>Linux</b>. <div/>For
                             <b>macOS</b> screen capture source, refer to the link: <p><xref
                                 href="https://obsproject.com/kb/macos-screen-capture-source"
                                 format="html" scope="external"
-                                >https://obsproject.com/kb/macos-screen-capture-source</xref></p></note><note
-                        id="note_hx4_bwr_r2c">The screen capture functionality is not available on
-                            <b>Linux</b> operating system.</note></stepresult>
+                                >https://obsproject.com/kb/macos-screen-capture-source
+                        </xref></p></note></stepresult>
             </step>
         </steps>
     </taskbody>
