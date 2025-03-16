@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gnk_p3s_r2c">
-    <title>How to record screen?</title>
+    <title>Record screen</title>
     <shortdesc>Once the Scenes and Sources are set, recording can be started. </shortdesc>
     <taskbody>
         <context>This section covers the steps to record a screen.<p>
@@ -13,7 +13,9 @@
             </p></context>
         <steps>
             <step>
-                <cmd>In the <b>Controls</b> tab, click <b>Start Recording</b>.</cmd>
+                <cmd>In the <b>Controls</b> tab, click <b>Start Recording</b>.<image
+                        href="startrecording.PNG" id="image_q3c_frs_r2c"/></cmd>
+                <stepresult>The <b>Start Recording</b> button turns blue in color.</stepresult>
             </step>
             <step>
                 <cmd>Traverse between scenes while providing audio inputs from mic/aux.</cmd>
@@ -22,7 +24,8 @@
                 <cmd>Click <b>Pause Recording </b>button,<b> </b>as applicable.</cmd>
             </step>
             <step>
-                <cmd>To resume recording, click <b>Pause Recording</b> button again.</cmd>
+                <cmd>To resume recording, click <b>Pause Recording</b> button again.<image
+                        href="pausestoprecording.PNG" id="image_akk_4rs_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Click <b>Stop Recording </b>once finished with the recording activity.</cmd>
