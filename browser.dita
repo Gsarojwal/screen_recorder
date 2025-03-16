@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_h1x_mvp_r2c">
     <title>Add Browser</title>
-    <shortdesc>The section covers the steps to add a browser to a Source.</shortdesc>
+    <shortdesc>A web browser can be directly added to a OBS.</shortdesc>
     <taskbody>
-        <context>Follow these simple steps to add browsers to be displayed while recording a
-            screen.</context>
+        <context>Follow these simple steps to add browsers to be displayed while recording a screen
+            in <b>Windows</b> operating system.</context>
         <steps>
             <step>
                 <cmd>Click ‘+’ in <b>Sources </b>widget.</cmd>
@@ -20,7 +20,11 @@
                 <cmd>Click <b>OK</b>.</cmd>
             </step>
         </steps>
-        <result id="result_w5c_tvp_r2c">The Browser gets added to the Source of a Scene.<note
-                id="note_nyx_5vp_r2c">Keep other browser settings as default.</note></result>
+        <result id="result_w5c_tvp_r2c">The <b>Browser</b> gets added to the Source of a Scene.<note
+                id="note_nyx_5vp_r2c">Keep other browser settings as default. For details on browser
+                settings for <b>macOS</b> and <b>Linux</b> operating systems, refer to link
+                        -<p><xref href="https://obsproject.com/kb/browser-source" format="html"
+                        scope="external"
+            >https://obsproject.com/kb/browser-source.</xref></p></note></result>
     </taskbody>
 </task>
