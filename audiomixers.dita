@@ -8,8 +8,9 @@
         <context>This section covers the audio mixers controls.</context>
         <steps>
             <step>
-                <cmd>Toggle the bar in the Audio Mixers control tab to set and check audio
-                    input/output for the Browser, Desktop Audio, Mic/Aux, and Video Capture. </cmd>
+                <cmd>Toggle the bars in the <b>Audio Mixers</b> tab to set and check audio
+                    input/output for the Browser, Desktop Audio, Mic/Aux, and Video Capture. <image
+                        href="audiomixers.PNG" id="image_x4q_wss_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Click the three vertical ellipses and settings icon for more audio controls, as
