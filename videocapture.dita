@@ -12,7 +12,7 @@
             >https://obsproject.com/kb/video-capture-sources</xref></p></context>
         <steps>
             <step>
-                <cmd>Click ‘<b>+</b>’ icon in <b>Sources </b>controls tab.</cmd>
+                <cmd>Click ‘+’ icon in <b>Sources </b>controls tab.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Video Capture</b> from the drop-down list.</cmd>
@@ -27,7 +27,9 @@
                 <cmd>Keep other settings as default.</cmd>
             </step>
             <step>
-                <cmd>Click <b>OK</b>.</cmd>
+                <cmd>Click <b>OK</b>.<image href="videocapturdevice.PNG" id="image_vdy_cts_r2c"
+                    /></cmd>
+                <stepresult>An integrated video capturing device is configured.</stepresult>
             </step>
         </steps>
     </taskbody>
