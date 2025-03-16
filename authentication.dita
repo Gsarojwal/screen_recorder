@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_c5s_xkp_r2c">
-    <title></title>
+    <title>Authentication</title>
     <body>
         <p></p>
+        <p dir="ltr">OBS Studio needs to authenticate with a 3CLogic server before allowing the
+            Customer Support Agents to use the software.</p>
+        <p dir="ltr">The software must first <b>verify Agents’ identity</b> or <b>establish a
+                connection</b> with a <b>3CLogic server</b>.</p>
+        <p dir="ltr">The authentication process can involve:</p>
+        <ol id="ol_spm_hlp_r2c">
+            <li dir="ltr">
+                <p dir="ltr"><b>Login or Authentication</b> – The Agent may need to enter
+                    credentials or go through a verification process.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr"><b>Permission Check</b> – A 3CLogic server ensures that the Customer
+                    Support Agent is authorized to use OBS Studio for specific tasks.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr"><b>Secure Connection</b> – OBS Studio may need to link with 3CLogic to
+                    access certain features, such as streaming, recording, or integrating with
+                    customer support tools.</p>
+            </li>
+        </ol>
+        <note id="note_jsl_klp_r2c">
+            <p>For precise information on setting up and authenticating OBS Studio with 3CLogic
+                server, it's advisable to consult 3CLogic's IT services documentation or reach out
+                to their IT help desk on abc@c3logic.com.</p>
+        </note>
     </body>
 </topic>
