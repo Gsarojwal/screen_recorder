@@ -2,14 +2,19 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_lwg_nbp_r2c">
     <title>Install on Linux</title>
-    <shortdesc></shortdesc>
+    <shortdesc>The installation links are provided on the website.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Follow these simple steps to install OBS Studio on Linux.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click the link to install OBS Studio on Linux. <xref
+                        href="https://obsproject.com/kb/linux-installation" format="html"
+                        scope="external">https://obsproject.com/kb/linux-installation</xref></cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Download on FLATHUB</b>. </cmd>
+                <stepresult>The download gets started. Once the download is complete, an on-screen
+                    message is displayed: <b>Thank you for Downloading OBS Studio!</b></stepresult>
             </step>
         </steps>
     </taskbody>
