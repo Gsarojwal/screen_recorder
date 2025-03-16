@@ -16,7 +16,7 @@
                 <cmd>Click <b>Download OBS Studio</b>.</cmd>
                 <stepresult>
                     <p>The download gets started. Once the download is complete, an on-screen
-                        message is displayed:<b>Thank you for Downloading OBS Studio!</b></p>
+                        message is displayed: <b>Thank you for Downloading OBS Studio!</b></p>
                 </stepresult>
             </step>
         </steps>
