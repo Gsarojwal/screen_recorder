@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_itd_fcs_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Display Capture</title>
+    <shortdesc>Display Capture is used to capture entire monitor.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This section covers steps to capture the display on Windows operating system. <note
+                id="note_rx3_scs_r2c">
+                <p>There can be only one Display Capture source per display. If displayn is needed
+                    in multiple scenes, add references to the existing Display Capture Source rather
+                    than created a new source. Refer to the link: <xref
+                        href="https://obsproject.com/kb/display-capture-sources" format="html"
+                        scope="external"
+                    >https://obsproject.com/kb/display-capture-sources</xref></p>
+            </note></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click ‘+’ in <b>Sources</b>controls tab.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Display Capture</b>from the drop-down menu.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Capture Method</b> as <b>‘Automatic’</b>. </cmd>
+            </step>
+            <step>
+                <cmd>Check to select <b>Capture Cursor</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>OK</b>.</cmd>
             </step>
         </steps>
     </taskbody>
