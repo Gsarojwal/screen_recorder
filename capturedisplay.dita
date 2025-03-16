@@ -6,19 +6,20 @@
     <taskbody>
         <context>This section covers steps to capture the display on Windows operating system. <note
                 id="note_rx3_scs_r2c">
-                <p>There can be only one Display Capture source per display. If displayn is needed
-                    in multiple scenes, add references to the existing Display Capture Source rather
-                    than created a new source. Refer to the link: <xref
+                <p>There can be only one Display Capture source per display. If display is needed in
+                    multiple scenes, add references to the existing Display Capture Source rather
+                    than created a new source. Refer to the link for some more settings related to
+                    display capture sources for <b>Windows</b> and <b>macOS</b>: <xref
                         href="https://obsproject.com/kb/display-capture-sources" format="html"
                         scope="external"
                     >https://obsproject.com/kb/display-capture-sources</xref></p>
             </note></context>
         <steps>
             <step>
-                <cmd>Click ‘+’ in <b>Sources</b>controls tab.</cmd>
+                <cmd>Click ‘<b>+</b>’ icon in <b>Sources </b>controls tab.</cmd>
             </step>
             <step>
-                <cmd>Select <b>Display Capture</b>from the drop-down menu.</cmd>
+                <cmd>Select <b>Display Capture </b>from the drop-down menu.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Capture Method</b> as <b>‘Automatic’</b>. </cmd>
