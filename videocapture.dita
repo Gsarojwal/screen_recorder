@@ -12,7 +12,7 @@
             >https://obsproject.com/kb/video-capture-sources</xref></p></context>
         <steps>
             <step>
-                <cmd>Click ‘+’ icon in <b>Sources </b>controls tab.</cmd>
+                <cmd>Click ‘<b>+</b>’ icon in <b>Sources </b>controls tab.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Video Capture</b> from the drop-down list.</cmd>
