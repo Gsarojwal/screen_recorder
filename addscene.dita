@@ -15,6 +15,17 @@
                 <cmd>At the bottom of the main window, click the '+' icon in the Scenes control
                     tab.</cmd>
             </step>
+            <step>
+                <cmd>Enter Scene name.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>OK</b>.</cmd>
+                <stepresult>A new scene gets created.</stepresult>
+            </step>
+            <step>
+                <cmd>Click the '+' icon in the Sources control tab.</cmd>
+                <stepresult>A list of different sources is displayed.</stepresult>
+            </step>
         </steps>
     </taskbody>
 </task>
