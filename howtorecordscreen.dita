@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gnk_p3s_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>How to record screen?</title>
+    <shortdesc>Once the Scenes and Sources are set, recording can be started. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This section covers the steps to record a screen.<p>
+                <note id="note_jqw_w3s_r2c">There can be several recording settings. Agents can
+                    refer to ;link for full list of recording settings. <xref
+                        href="https://obsproject.com/kb/standard-recording-output-guide"
+                        format="html" scope="external"
+                        >https://obsproject.com/kb/standard-recording-output-guide</xref></note>
+            </p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In the <b>Controls</b> tab, click <b>Start Recording</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Traverse between scenes while providing audio inputs from mic/aux.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Pause Recording </b>as applicable.</cmd>
+            </step>
+            <step>
+                <cmd>To resume recording, click <b>Pause Recording</b> button again.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Stop Recording </b>once finished with the recording activity.</cmd>
+            </step>
+            <step>
+                <cmd>In <b>Files</b> menu, click <b>Show Recordings</b>.</cmd>
+                <stepresult>All the recorded videos are displayed on an Agent's
+                    machine.</stepresult>
             </step>
         </steps>
     </taskbody>
