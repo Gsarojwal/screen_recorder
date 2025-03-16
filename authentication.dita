@@ -3,7 +3,6 @@
 <topic id="topic_c5s_xkp_r2c">
     <title>Authentication</title>
     <body>
-        <p></p>
         <p dir="ltr">OBS Studio needs to authenticate with a 3CLogic server before allowing the
             Customer Support Agents to use the software.</p>
         <p dir="ltr">The software must first <b>verify Agents’ identity</b> or <b>establish a
