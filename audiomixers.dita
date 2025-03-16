@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_i4p_tgs_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Audio Mixers</title>
+    <shortdesc>The audio mixers allows an Agent to set the audio input for a screen
+        recording.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This section covers the audio mixers controls.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Toggle the bar in the Audio Mixers control tab to set and check audio
+                    input/output for the Browser, Desktop Audio, Mic/Aux, and Video Capture. </cmd>
+            </step>
+            <step>
+                <cmd>Click the three vertical ellipses and settings icon for more audio controls, as
+                    applicable.</cmd>
+            </step>
+            <step>
+                <cmd>Also, refer to the audio input/output capture details in the link: <xref
+                        href="https://obsproject.com/kb/audio-sources" format="html"
+                        scope="external">https://obsproject.com/kb/audio-sources</xref></cmd>
             </step>
         </steps>
     </taskbody>
