@@ -6,7 +6,7 @@
     <taskbody>
         <context>This section covers the steps to record a screen.<p>
                 <note id="note_jqw_w3s_r2c">There can be several recording settings. Agents can
-                    refer to ;link for full list of recording settings. <xref
+                    refer to the link for full list of recording settings. <xref
                         href="https://obsproject.com/kb/standard-recording-output-guide"
                         format="html" scope="external"
                         >https://obsproject.com/kb/standard-recording-output-guide</xref></note>
@@ -19,7 +19,7 @@
                 <cmd>Traverse between scenes while providing audio inputs from mic/aux.</cmd>
             </step>
             <step>
-                <cmd>Click <b>Pause Recording </b>as applicable.</cmd>
+                <cmd>Click <b>Pause Recording </b>button,<b> </b>as applicable.</cmd>
             </step>
             <step>
                 <cmd>To resume recording, click <b>Pause Recording</b> button again.</cmd>
