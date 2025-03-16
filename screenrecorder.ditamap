@@ -14,6 +14,7 @@
         <topicref href="addscene.dita"/>
         <topicref href="browser.dita"/>
         <topicref href="windowcapture.dita"/>
+        <topicref href="capturedisplay.dita"/>
         <topicref href="startrecording.dita"/>
     </topicref>
 </map>
