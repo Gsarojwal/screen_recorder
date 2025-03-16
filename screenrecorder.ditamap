@@ -15,6 +15,8 @@
         <topicref href="browser.dita"/>
         <topicref href="windowcapture.dita"/>
         <topicref href="capturedisplay.dita"/>
+        <topicref href="videocapture.dita"/>
+        <topicref href="audiomixers.dita"/>
         <topicref href="startrecording.dita"/>
     </topicref>
 </map>
