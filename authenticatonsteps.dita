@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vjn_fnp_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Authentication Steps</title>
+    <shortdesc>The steps to authenticate with a 3CLogic server may vary based on specific
+        configurations.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>These are some general steps which can be followed to connect OBS Studio to the
+            3CLogic server.<note id="note_tpm_gqp_r2c">
+                <p>For detailed and tailored assistance, it is recommended to consult 3CLogic
+                    official IT support resources.</p>
+            </note></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Install the OBS WebSocket Plugin:</cmd>
+                <info>
+                    <ul id="ul_vfh_sqp_r2c">
+                        <li>For OBS Studio versions <b>28 and above</b>, the WebSocket functionality
+                            is built-in.</li>
+                        <li>For versions <b>below 28</b>, download and install the obs-websocket
+                            plugin.</li>
+                    </ul>
+                    <ol>
+                        <li>Configure <b>OBS WebSocket Setting</b>:<ul id="ul_xfh_sqp_r2c">
+                                <li>Navigate to the <b>Tools</b> menu and select <b>WebSocket Server
+                                        Settings</b>.</li>
+                                <li>Ensure the WebSocket server is enabled.</li>
+                                <li>Set a secure password for authentication.</li>
+                            </ul></li>
+                        <li><b>Obtain 3CLogic Integration Details</b>:<ul id="ul_agh_sqp_r2c">
+                                <li>Contact  3CLogic administrator or consult the 3CLogic
+                                    integration documentation to acquire necessary integration
+                                    credentials and server details.</li>
+                            </ul></li>
+                        <li><b>Configure 3CLogic to Connect with OBS Studio</b>:<ul
+                                id="ul_bgh_sqp_r2c">
+                                <li>Access the 3CLogic administration portal.</li>
+                                <li>Navigate to the integration settings section.</li>
+                                <li>Enter the OBS Studio WebSocket server details, including the IP
+                                    address, port (default is 4444), and the password set
+                                    earlier.</li>
+                            </ul></li>
+                        <li><b>Test the Integration</b>:<ul id="ul_dgh_sqp_r2c">
+                                <li>Restart both OBS Studio and the 3CLogic application.</li>
+                                <li>Perform a test to ensure that 3CLogic can control and interact
+                                    with OBS Studio as intended.</li>
+                            </ul></li>
+                    </ol>
+                </info>
             </step>
         </steps>
     </taskbody>
