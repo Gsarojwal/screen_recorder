@@ -12,7 +12,7 @@
     <topicref href="gettingstarted.dita">
         <topicref href="autoconfigurationwizard.dita"/>
         <topicref href="addscene.dita"/>
-        <topicref href="addbrowser.dita"/>
+        <topicref href="browser.dita"/>
         <topicref href="startrecording.dita"/>
     </topicref>
 </map>
