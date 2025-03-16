@@ -13,6 +13,7 @@
         <topicref href="autoconfigurationwizard.dita"/>
         <topicref href="addscene.dita"/>
         <topicref href="browser.dita"/>
+        <topicref href="windowcapture.dita"/>
         <topicref href="startrecording.dita"/>
     </topicref>
 </map>
