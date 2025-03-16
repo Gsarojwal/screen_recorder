@@ -21,7 +21,7 @@
                 <cmd>Select a <b>Device</b> from the available options.</cmd>
             </step>
             <step>
-                <cmd>Click <b>Activate</b>for capturing a video.</cmd>
+                <cmd>Click <b>Activate</b>to capture a video during screen recording.</cmd>
             </step>
             <step>
                 <cmd>Keep other settings as default.</cmd>
