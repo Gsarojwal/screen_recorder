@@ -2,9 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Screen Recorder</title>
-    <topicref href="Installation.dita">
-        <topicref href="Task.dita"/>
-    </topicref>
     <topicref href="introduction.dita"/>
     <topicref href="installation.dita">
         <topicref href="systemrequirements.dita"/>
