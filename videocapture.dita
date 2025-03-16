@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_d4w_gfs_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Video Capture</title>
+    <shortdesc>These source types are generally used to add webcams and capture cards. <b>The webcam
+            capture is optional</b>.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This section covers the steps to add webcams in screen recordings.<p>Refer to the
+                link for full list of settings for video capture. <xref
+                    href="https://obsproject.com/kb/video-capture-sources" format="html"
+                    scope="external"
+            >https://obsproject.com/kb/video-capture-sources</xref></p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click ‘<b>+</b>’ icon in <b>Sources</b>controls tab.</cmd>
+            </step>
+            <step>
+                <cmd>Select <b>Video Capture</b> from the drop-down list.</cmd>
+            </step>
+            <step>
+                <cmd>Select a <b>Device</b> from the available options.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Activate</b>for capturing a video.</cmd>
+            </step>
+            <step>
+                <cmd>Keep other settings as default.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>OK</b>.</cmd>
             </step>
         </steps>
     </taskbody>
