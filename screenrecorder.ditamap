@@ -10,8 +10,12 @@
         <topicref href="systemrequirements.dita"/>
         <topicref href="installonwindows.dita"/>
         <topicref href="installonmacos.dita"/>
+        <topicref href="intallonlinux.dita"/>
     </topicref>
     <topicref href="gettingstarted.dita">
+        <topicref href="autoconfigurationwizard.dita"/>
+        <topicref href="addscene.dita"/>
+        <topicref href="addbrowser.dita"/>
         <topicref href="startrecording.dita"/>
     </topicref>
 </map>
