@@ -2,18 +2,18 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ohy_hrk_r2c">
     <title>Add Scene &amp; Source</title>
-    <shortdesc>To start recording, a <b>Scene </b>is to be added. There can be multiple scenes
-        (screens) which an agent can change and display while screen recording.</shortdesc>
+    <shortdesc>To start recording, a <b>Scene </b>is to be added. There can be multiple
+            <b>Scenes</b> which an agent can change and display while screen recording.</shortdesc>
     <taskbody>
-        <context>This section showcases the steps to capture a screens on <b>Windows</b> operating
+        <context>This section showcases the steps to add a scene on <b>Windows</b> operating
                     system.<p><b>OBS Studio </b>starts with a blank scene by default. Agents can add
-                all kinds of <b>Sources</b> to the <b>Scenes</b> — to show browser,
-                    <b>Windows</b>/<b>macOS </b>screen capture, display capture, webcam, etc. Follow
-                the below steps to capture a screen</p></context>
+                all kinds of <b>Sources</b> to the <b>Scenes</b> — to show browser, Window<b
+                > </b>screen capture, display capture, webcam, etc. Follow the below steps to add a
+                scene and sources within.</p></context>
         <steps>
             <step>
-                <cmd>At the bottom of the main window, click the '<b>+</b>' icon in the
-                        <b>Scenes</b> control tab.</cmd>
+                <cmd>At the bottom of the main window, click the '+' icon in the <b>Scenes</b>
+                    control tab.</cmd>
             </step>
             <step>
                 <cmd>Enter <b>Scene</b> name.</cmd>
@@ -24,7 +24,10 @@
             </step>
             <step>
                 <cmd>Click the '+' icon in the <b>Sources</b> control tab.</cmd>
-                <stepresult>A list of different sources is displayed.<note id="note_jxp_xvr_r2c">For
+                <stepresult>A list of different sources is displayed.<note id="note_ih1_pbs_r2c"
+                        >Refer to the sections on<xref href="browser.dita"/>, Window capture <xref
+                            href="windowcapture.dita"/>, Display capture and Webcam capture to
+                        configure further settings. </note><note id="note_jxp_xvr_r2c">For
                             <b>macOS</b> screen capture source, refer to the link: <p><xref
                                 href="https://obsproject.com/kb/macos-screen-capture-source"
                                 format="html" scope="external"
