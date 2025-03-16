@@ -8,7 +8,8 @@
             in <b>Windows</b> operating system.</context>
         <steps>
             <step>
-                <cmd>Click ‘+’ in <b>Sources </b>widget.</cmd>
+                <cmd>Click ‘+’ in <b>Sources </b>widget.<image href="browser.PNG"
+                        id="image_flf_5qs_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Select <b>Browser</b>.</cmd>
