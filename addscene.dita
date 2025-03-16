@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ohy_hrk_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Add Scene &amp; Source</title>
+    <shortdesc>To start recording, a <b>Scene </b>is to be added. There can be multiple scenes which
+        an agent can change and display while screen recording.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p><b>OBS Studio </b>starts with a blank scene by default. Agents can add all kinds of
+                Sources to the scenes — to show browser, window capture, display capture, webcam,
+                etc.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>At the bottom of the main window, click the '+' icon in the Scenes control
+                    tab.</cmd>
             </step>
         </steps>
     </taskbody>
