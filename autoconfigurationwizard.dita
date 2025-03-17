@@ -14,8 +14,8 @@
             </step>
             <step>
                 <cmd>Click <b><uicontrol>Next</uicontrol></b>. </cmd>
-                <stepxmp>Refer to the screenshot.<image href="autoconfigwizard.PNG"
-                        id="image_hyk_qby_r2c"/></stepxmp>
+                <stepxmp>Refer to the screenshot.
+                        <image href="autoconfigwizard.PNG" id="image_hyk_qby_r2c"/></stepxmp>
             </step>
         </steps>
         <result id="result_i2z_nqk_r2c">The agent is redirected to the user interface of OBS
