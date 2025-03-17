@@ -37,16 +37,18 @@ del /q "%logpath%\*.txt"</codeblock>
                 <cmd>Click <b>Create Basic Task</b> → Name it <b>Delete OBS Logs</b>.</cmd>
             </step>
             <step>
-                <cmd>Set <b>Trigger</b> to "Monthly".<image href="setdaysforautodelete.PNG"
-                        id="image_kgr_42w_r2c"/></cmd>
+                <cmd>Set <b>Trigger</b> to "Monthly".</cmd>
+                <stepxmp>Refer to the screenshot. <image href="setdaysforautodelete.PNG"
+                        id="image_u31_ydy_r2c"/></stepxmp>
             </step>
             <step>
                 <cmd>Choose <b>Action</b> → "Start a Program" → Browse and select
                         <codeph>delete_obs_logs.bat</codeph>.</cmd>
             </step>
             <step>
-                <cmd>Click <b>Finish</b> to save.<image href="deleteobslogssetup.PNG"
-                        id="image_uct_s2w_r2c"/></cmd>
+                <cmd>Click <b>Finish</b> to save.</cmd>
+                <stepxmp>Refer to the screenshot. <image href="deleteobslogssetup.PNG"
+                        id="image_f1f_12y_r2c"/></stepxmp>
                 <stepresult>The auto-delete task gets scheduled.</stepresult>
             </step>
         </steps>
