@@ -24,7 +24,8 @@
                 <cmd>Check to select <b>Capture Cursor</b>. </cmd>
             </step>
             <step>
-                <cmd>Select <b>OK</b>.<image href="windowcapture.PNG" id="image_sgg_zvs_r2c"/></cmd>
+                <cmd>Select <b>OK</b>.   <image href="windowcapture.PNG" id="image_sgg_zvs_r2c"
+                    /></cmd>
                 <stepresult>The window (along with the tabs) to be captured is
                     configured.</stepresult>
             </step>
