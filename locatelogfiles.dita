@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_n2k_zgw_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Locate Log Files</title>
+    <shortdesc>The recording log files can be managed once their location is found on an Agent's
+        machine.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
+        <context>Depending on the Operating System, steps to locate log files are covered in this
+                section.<table frame="all" rowsep="1" colsep="1" id="table_ybk_jjw_r2c">
+                <title>Locate log files paths</title>
+                <tgroup cols="3">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <colspec colnum="3" colname="newCol3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry><b>Windows</b></entry>
+                            <entry><b>macOS</b></entry>
+                            <entry><b>Linux</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Navigate to <b>Help</b> in OBS Studio > Click <b>Log Files</b> >
+                                Click <b>Show Log Files </b>                OR
+                                C:\Users\YourUsername\AppData\Roaming\obs-studio\logs</entry>
+                            <entry>
+                                <p dir="ltr">~/Library/Application Support/obs-studio/logs</p>
+                            </entry>
+                            <entry>~/.config/obs-studio/logs</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></context>
     </taskbody>
 </task>
