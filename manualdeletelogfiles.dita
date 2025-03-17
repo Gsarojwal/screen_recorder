@@ -4,7 +4,7 @@
     <title>Delete Log Files Manually</title>
     <shortdesc>Agents can manually select and delete recording log files.</shortdesc>
     <taskbody>
-        <context>This section covers the steps to manually delete lo files from an Agent's
+        <context>This section covers the steps to manually delete log files from an Agent's
                 machine.<p>Refer to the section<xref href="locatelogfiles.dita"/></p><table
                 frame="all" rowsep="1" colsep="1" id="table_dkv_xmw_r2c">
                 <title>Path to manually delete log files</title>
@@ -23,10 +23,10 @@
                         <row>
                             <entry>C:\Users\YourUsername\AppData\Roaming\obs-studio\logs > Select
                                 and delete log files</entry>
-                            <entry>~/Library/Application Support/obs-studio/logs>Select all
+                            <entry>~/Library/Application Support/obs-studio/logs > Select all
                                     <codeph>.txt</codeph> log files and move them to the
                                     <b>Trash</b>.</entry>
-                            <entry>Open <b>Terminal</b> (<codeph>Ctrl + Alt + T</codeph>)>cd
+                            <entry>Open <b>Terminal</b> (<codeph>Ctrl + Alt + T</codeph>) > cd
                                 ~/.config/obs-studio/logs> rm -f *.txt</entry>
                         </row>
                     </tbody>
