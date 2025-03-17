@@ -28,7 +28,9 @@
                 <cmd>Check to select <b>Capture Cursor</b>.</cmd>
             </step>
             <step>
-                <cmd>Click <b>OK</b>.<image href="displaycapture.PNG" id="image_b4n_4ts_r2c"/></cmd>
+                <cmd>Click <b>OK</b>.</cmd>
+                <stepxmp>Refer to the screenshot. <image href="displaycapture.PNG"
+                        id="image_bpn_5cy_r2c"/></stepxmp>
                 <stepresult>The screen display settings are configured.</stepresult>
             </step>
         </steps>
