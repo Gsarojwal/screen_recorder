@@ -4,7 +4,7 @@
     <title>Install on Windows</title>
     <shortdesc>The installation links are provided on the website. </shortdesc>
     <taskbody>
-        <context>Follow these simple steps to install OBS Studio on Windows OS.<p/></context>
+        <context>Follow these simple steps to install OBS Studio on Windows OS.</context>
         <steps>
             <step>
                 <cmd>Click the link to install OBS Studio on Windows. <xref
