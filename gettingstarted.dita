@@ -3,7 +3,7 @@
 <topic id="topic_xgz_f4k_r2c">
     <title>Getting Started</title>
     <body>
-        <p>Let's start by setting up the basic settings for screen recordings. The settings are
+        <p>Let's start by configuring the basic settings for screen recordings. The settings are
             provided in the undermentioned sections. <note id="note_n5w_3tw_r2c" type="important"
                 >When OBS Studio is downloaded on a specific operating system, say Windows, the user
                 interface and on-screen functions are displayed according to Windows setup only.
@@ -11,6 +11,9 @@
                 is different. <div/>The complete knowledge base of OBS Studio can be referred from
                 their website link:<xref href="https://obsproject.com/kb" format="html"
                     scope="external">https://obsproject.com/kb </xref>after downloading the software
-                on a specific operating system.    </note></p>
+                on a specific operating system. <draft-comment author="Gsarojwal">I have prepared
+                    the topics and tasks around Windows OS as I am using only Windows. The content
+                    on many topics for macOS and Linux for same tasks (in parallel with windows) was
+                    not available on Windows version.</draft-comment></note></p>
     </body>
 </topic>
