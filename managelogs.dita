@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_nmx_vyv_r2c">
-    <title></title>
+    <title>Manage Log Files</title>
     <body>
-        <p></p>
+        <p dir="ltr">Under this section, Agents can refer to the steps to:</p>
+        <ul id="ul_aq3_qzv_r2c">
+            <li dir="ltr">
+                <p dir="ltr">Locate recording logs files on their machines</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Manually delete log files</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">Auto-delete log files</p>
+            </li>
+        </ul>
     </body>
 </topic>
