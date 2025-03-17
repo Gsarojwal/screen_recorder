@@ -8,8 +8,9 @@
             in <b>Windows</b> operating system.</context>
         <steps>
             <step>
-                <cmd>Click the ‘+’ icon in the <b>Sources </b>tab.<image href="browser.PNG"
-                        id="image_flf_5qs_r2c"/></cmd>
+                <cmd>Click the ‘+’ icon in the <b>Sources </b>tab. </cmd>
+                <stepxmp>Refer to the screenshot</stepxmp>
+                <cmd><image href="browser.PNG" id="image_flf_5qs_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Select <b>Browser</b> source.</cmd>
