@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ahp_bmw_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Delete Log Files Manually</title>
+    <shortdesc>Agents can manually select and delete recording log files.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
+        <context>This section covers the steps to manually delete lo files from an Agent's
+                machine.<p>Refer to the section<xref href="locatelogfiles.dita"/></p><table
+                frame="all" rowsep="1" colsep="1" id="table_dkv_xmw_r2c">
+                <title>Path to manually delete log files</title>
+                <tgroup cols="3">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <colspec colnum="3" colname="newCol3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry><b>Windows</b></entry>
+                            <entry><b>macOS</b></entry>
+                            <entry><b>Linux</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>C:\Users\YourUsername\AppData\Roaming\obs-studio\logs > Select
+                                and delete log files</entry>
+                            <entry>~/Library/Application Support/obs-studio/logs>Select all
+                                    <codeph>.txt</codeph> log files and move them to the
+                                    <b>Trash</b>.</entry>
+                            <entry>Open <b>Terminal</b> (<codeph>Ctrl + Alt + T</codeph>)>cd
+                                ~/.config/obs-studio/logs> rm -f *.txt</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></context>
     </taskbody>
 </task>
