@@ -19,4 +19,7 @@
         <topicref href="audiomixers.dita"/>
         <topicref href="howtorecordscreen.dita"/>
     </topicref>
+    <topicref href="managelogs.dita">
+        <topicref href="autodeletelogfileswindows.dita"/>
+    </topicref>
 </map>
