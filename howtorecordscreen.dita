@@ -5,8 +5,8 @@
     <shortdesc>Once the Scenes and Sources are set, recording can be started. </shortdesc>
     <taskbody>
         <context>This section covers the steps to record a screen.<p>
-                <note id="note_jqw_w3s_r2c">There can be several recording settings. Agents can
-                    refer to the link for full list of recording settings. <xref
+                <note id="note_jqw_w3s_r2c">There can be several advanced recording settings. Agents
+                    can refer to the link for full list of recording settings. <xref
                         href="https://obsproject.com/kb/standard-recording-output-guide"
                         format="html" scope="external"
                         >https://obsproject.com/kb/standard-recording-output-guide</xref></note>
