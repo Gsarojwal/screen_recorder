@@ -5,11 +5,11 @@
     <shortdesc>An Agent can capture a selected window in a browser to showcase it while interacting
         with a customer and/or while recording a screen.</shortdesc>
     <taskbody>
-        <context>This section contains the steps to capture window during screen
+        <context>This section contains the steps to capture a window during screen
             recording.</context>
         <steps>
             <step>
-                <cmd>Click ‘<b>+</b>’ in <b>Sources</b> tab.</cmd>
+                <cmd>Click the ‘<b>+</b>’ icon in the <b>Sources</b> tab.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Window</b> from the drop-down options.</cmd>
