@@ -14,8 +14,8 @@
             <step>
                 <cmd>At the bottom of the main window, click the '<b>+</b>' icon in the
                         <b>Scenes</b> tab. </cmd>
-                <stepxmp>Refer to the screenshot.<image href="scenes.PNG" id="image_l1k_xby_r2c"
-                    /></stepxmp>
+                <stepxmp>Refer to the screenshot.
+                        <image href="scenes.PNG" id="image_l1k_xby_r2c"/></stepxmp>
             </step>
             <step>
                 <cmd>Enter <b>Scene</b> name.</cmd>
@@ -26,8 +26,8 @@
             </step>
             <step>
                 <cmd>Click the '+' icon in the <b>Sources</b> tab and select a source.</cmd>
-                <stepxmp>Refer to the screenshot. <image href="sources.PNG" id="image_sqh_1cy_r2c"
-                    /></stepxmp>
+                <stepxmp>Refer to the screenshot.
+                        <image href="sources.PNG" id="image_sqh_1cy_r2c"/></stepxmp>
                 <stepresult>Added sources are displayed. <note id="note_ih1_pbs_r2c"
                         type="important">Refer to the sections on<xref href="browser.dita"/>, Window
                         capture <xref href="windowcapture.dita"/>, <xref href="capturedisplay.dita"
