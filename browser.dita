@@ -2,17 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_h1x_mvp_r2c">
     <title>Add Browser</title>
-    <shortdesc>A web browser can be directly added to a OBS.</shortdesc>
+    <shortdesc>A web browser can be directly added to OBS Studio.</shortdesc>
     <taskbody>
         <context>Follow these simple steps to add browsers to be displayed while recording a screen
             in <b>Windows</b> operating system.</context>
         <steps>
             <step>
-                <cmd>Click ‘+’ in <b>Sources </b>widget.<image href="browser.PNG"
+                <cmd>Click the ‘+’ icon in the <b>Sources </b>tab.<image href="browser.PNG"
                         id="image_flf_5qs_r2c"/></cmd>
             </step>
             <step>
-                <cmd>Select <b>Browser</b>.</cmd>
+                <cmd>Select <b>Browser</b> source.</cmd>
             </step>
             <step>
                 <cmd>Add <b>URL</b>.</cmd>
