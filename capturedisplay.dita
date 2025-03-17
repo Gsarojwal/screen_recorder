@@ -4,8 +4,8 @@
     <title>Display Capture</title>
     <shortdesc>Display Capture is used to capture entire monitor.</shortdesc>
     <taskbody>
-        <context>This section covers steps to capture the display on <b>Windows</b>. <note
-                id="note_rx3_scs_r2c" type="important">
+        <context>This section covers steps to capture the display on Windows operating system. <note
+                id="note_rx3_scs_r2c">
                 <p>There can be only one Display Capture source per display. If display is needed in
                     multiple scenes, add references to the existing Display Capture Source rather
                     than created a new source. Refer to the link for some more settings related to
@@ -16,7 +16,7 @@
             </note></context>
         <steps>
             <step>
-                <cmd>Click the ‘<b>+</b>’ icon in the <b>Sources</b> tab.</cmd>
+                <cmd>Click ‘<b>+</b>’ icon in <b>Sources </b>controls tab.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Display Capture </b>from the drop-down menu.</cmd>
@@ -28,9 +28,8 @@
                 <cmd>Check to select <b>Capture Cursor</b>.</cmd>
             </step>
             <step>
-                <cmd>Click <b>OK</b>.<image href="displaycapture.PNG" id="image_k4s_sws_r2c"/></cmd>
-                <stepresult>The settings for a monitor display area to be captured are
-                    configured.</stepresult>
+                <cmd>Click <b>OK</b>.<image href="displaycapture.PNG" id="image_b4n_4ts_r2c"/></cmd>
+                <stepresult>The screen display settings are configured.</stepresult>
             </step>
         </steps>
     </taskbody>
