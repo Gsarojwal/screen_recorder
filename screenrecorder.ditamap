@@ -23,5 +23,7 @@
         <topicref href="locatelogfiles.dita"/>
         <topicref href="manualdeletelogfiles.dita"/>
         <topicref href="autodeletelogfileswindows.dita"/>
+        <topicref href="autodeletelogfilesmacoslinux.dita"/>
     </topicref>
+    <topicref href="troubleshooting.dita"/>
 </map>
