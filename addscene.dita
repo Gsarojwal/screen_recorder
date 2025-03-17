@@ -12,8 +12,8 @@
             within.</p></context>
         <steps>
             <step>
-                <cmd>At the bottom of the main window, click '<b>+</b>' icon in <b>Scenes</b>
-                        tab.<image href="scenes.PNG" id="image_wrv_q5s_r2c"/></cmd>
+                <cmd>At the bottom of the main window, click the '<b>+</b>' icon in the
+                        <b>Scenes</b> tab.<image href="scenes.PNG" id="image_wrv_q5s_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Enter <b>Scene</b> name.</cmd>
@@ -23,8 +23,8 @@
                 <stepresult>A new scene gets created.</stepresult>
             </step>
             <step>
-                <cmd>Click '+' icon in <b>Sources</b> tab.</cmd>
-                <stepresult>A list of different sources is displayed.<image href="sources.PNG"
+                <cmd>Click the '+' icon in the <b>Sources</b> tab and select a source.</cmd>
+                <stepresult>Added sources are displayed. <image href="sources.PNG"
                         id="image_yy4_v5s_r2c"/><note id="note_ih1_pbs_r2c" type="important">Refer
                         to the sections on<xref href="browser.dita"/>, Window capture <xref
                             href="windowcapture.dita"/>, <xref href="capturedisplay.dita"/> and<xref
