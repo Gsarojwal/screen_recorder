@@ -31,8 +31,8 @@
                 <cmd>Click <b>Stop Recording </b>once finished with the recording activity.</cmd>
             </step>
             <step>
-                <cmd>In <b>Files</b> menu, click <b>Show Recordings</b>.</cmd>
-                <stepresult>All the recorded videos are displayed on an Agent's
+                <cmd>In the <b>Files</b> menu, click <b>Show Recordings</b>.</cmd>
+                <stepresult>All the recorded videos are displayed on an agent's
                     machine.</stepresult>
             </step>
         </steps>
