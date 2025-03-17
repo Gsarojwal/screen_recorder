@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yfq_zcx_r2c">
-    <title></title>
+    <title>Troubleshooting</title>
     <body>
-        <p></p>
+        <p>For troubleshooting, refer to the help portal link: <xref
+                href="https://obsproject.com/help" format="html" scope="external"
+                >https://obsproject.com/help</xref></p>
+        <p>For Frequently asked Questions (FAQs), details on advanced settings and other features
+            available in the OBS Studio, refer to the knowledge base link: <xref
+                href="https://obsproject.com/kb" format="html" scope="external"
+                >https://obsproject.com/kb</xref></p>
+        <p>For authentication with a 3CLogic server, reach out the IT help desk at
+                abc@3clogic.com<draft-comment author="Gsarojwal">The email id is a
+                placeholder.</draft-comment>.</p>
     </body>
 </topic>
