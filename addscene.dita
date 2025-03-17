@@ -13,7 +13,7 @@
         <steps>
             <step>
                 <cmd>At the bottom of the main window, click the '<b>+</b>' icon in the
-                        <b>Scenes</b> tab.<image href="scenes.PNG" id="image_wrv_q5s_r2c"/></cmd>
+                        <b>Scenes</b> tab.  <image href="scenes.PNG" id="image_wrv_q5s_r2c"/></cmd>
             </step>
             <step>
                 <cmd>Enter <b>Scene</b> name.</cmd>
@@ -24,7 +24,7 @@
             </step>
             <step>
                 <cmd>Click the '+' icon in the <b>Sources</b> tab and select a source.</cmd>
-                <stepresult>Added sources are displayed. <image href="sources.PNG"
+                <stepresult>Added sources are displayed.    <image href="sources.PNG"
                         id="image_yy4_v5s_r2c"/><note id="note_ih1_pbs_r2c" type="important">Refer
                         to the sections on<xref href="browser.dita"/>, Window capture <xref
                             href="windowcapture.dita"/>, <xref href="capturedisplay.dita"/> and<xref
