@@ -13,7 +13,7 @@
                 <cmd>Select a suitable option to specify usage.</cmd>
             </step>
             <step>
-                <cmd>Click <b><uicontrol>Next</uicontrol></b>.<image href="autoconfigwizard.PNG"
+                <cmd>Click <b><uicontrol>Next</uicontrol></b>. <image href="autoconfigwizard.PNG"
                         id="image_itr_zps_r2c"/></cmd>
             </step>
         </steps>
