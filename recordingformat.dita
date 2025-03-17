@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_yjj_p2x_r2c">
-    <title></title>
+    <title>Recording Format</title>
     <body>
-        <p></p>
+        <p><b>Recording Format</b> is the file format that a recording will be output in. MKV is
+            recommended in case of unforeseen issues arising, since MKV will not corrupt the whole
+            file if there is no graceful stoppage of recording. </p>
+        <p>Refer to the Standard Recording Output Guide for more output related settings: <xref
+                href="https://obsproject.com/kb/standard-recording-output-guide" format="html"
+                scope="external"
+            >https://obsproject.com/kb/standard-recording-output-guide</xref></p>
     </body>
 </topic>
