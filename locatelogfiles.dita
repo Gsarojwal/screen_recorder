@@ -2,12 +2,15 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_n2k_zgw_r2c">
     <title>Locate Log Files</title>
-    <shortdesc>The recording log files can be managed once their location is found on an Agent's
+    <shortdesc>The recording log files can be managed once their location is found on an agent's
         machine.</shortdesc>
     <taskbody>
         <context>Depending on the Operating System, steps to locate log files are covered in this
                 section.<table frame="all" rowsep="1" colsep="1" id="table_ybk_jjw_r2c">
-                <title>Locate log files paths</title>
+                <title>
+                    <draft-comment author="Gsarojwal">Locate log files paths - the path for macOS
+                        and Linux cannot be validated.</draft-comment>
+                </title>
                 <tgroup cols="3">
                     <colspec colnum="1" colname="c1" colwidth="1*"/>
                     <colspec colnum="2" colname="c2" colwidth="1*"/>
