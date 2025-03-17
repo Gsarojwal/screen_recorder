@@ -13,8 +13,9 @@
             </p></context>
         <steps>
             <step>
-                <cmd>In the <b>Controls</b> tab, click <b>Start Recording</b>.<image
-                        href="startrecording.PNG" id="image_q3c_frs_r2c"/></cmd>
+                <cmd>In the <b>Controls</b> tab, click <b>Start Recording</b>.</cmd>
+                <stepxmp>Refer to the screenshot. <image href="startrecording.PNG"
+                        id="image_hhy_pdy_r2c"/></stepxmp>
                 <stepresult>The <b>Start Recording</b> button turns blue in color.</stepresult>
             </step>
             <step>
@@ -24,8 +25,9 @@
                 <cmd>Click <b>Pause Recording </b>button,<b> </b>as applicable.</cmd>
             </step>
             <step>
-                <cmd>To resume recording, click <b>Pause Recording</b> button again.<image
-                        href="pausestoprecording.PNG" id="image_akk_4rs_r2c"/></cmd>
+                <cmd>To resume recording, click <b>Pause Recording</b> button again.</cmd>
+                <stepxmp>Refer to the screenshot. <image href="pausestoprecording.PNG"
+                        id="image_uls_rdy_r2c"/></stepxmp>
             </step>
             <step>
                 <cmd>Click <b>Stop Recording </b>once finished with the recording activity.</cmd>
