@@ -20,6 +20,7 @@
         <topicref href="howtorecordscreen.dita"/>
     </topicref>
     <topicref href="managelogs.dita">
+        <topicref href="recordingformat.dita"/>
         <topicref href="locatelogfiles.dita"/>
         <topicref href="manualdeletelogfiles.dita"/>
         <topicref href="autodeletelogfileswindows.dita"/>
