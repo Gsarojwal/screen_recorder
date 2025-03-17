@@ -4,7 +4,7 @@
     <title>Install on macOS</title>
     <shortdesc>The installation links are provided on the website. </shortdesc>
     <taskbody>
-        <context>Follow these simple steps to install OBS Studio on macOS.<p/></context>
+        <context>Follow these simple steps to install OBS Studio on macOS.</context>
         <steps>
             <step>
                 <cmd>Click the link to install OBS Studio on macOS. <xref
@@ -14,8 +14,8 @@
             </step>
             <step>
                 <cmd>Click <b>Download OBS Studio.</b></cmd>
-                <stepresult>The agent is redirected on another screen for choosing
-                    macOS.</stepresult>
+                <stepresult>The agent is redirected on another screen for choosing macOS
+                    installer.</stepresult>
             </step>
             <step>
                 <cmd>Click<b>
