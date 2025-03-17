@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_spm_3ww_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Auto-delete Log Files - macOS &amp; Linux</title>
+    <shortdesc>Using a Cron Job or a Shell Script the OBS Studio log files can be scheduled for
+            auto-deletion.<draft-comment author="Gsarojwal">These steps cannot be validated as I am
+            using Windows. </draft-comment></shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Refer to the below mentioned steps to auto-delete log files older than 30 days.
+            <p/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Using a Cron Job, <b>Open Terminal</b> (<codeph>Cmd + Space</codeph>, type
+                        <b>Terminal</b>, press Enter).</cmd>
+            </step>
+            <step>
+                <cmd>Edit the crontab file by running: <codeph>crontab -e</codeph></cmd>
+            </step>
+            <step>
+                <cmd><b>Add this line at the end</b> to remove OBS logs older than <b>30 days</b>:
+                        <codeph>0 0 * * * find ~/.config/obs-studio/logs -type f -name "*.txt"
+                        -mtime +30 -delete</codeph>
+                </cmd>
+            </step>
+            <step>
+                <cmd>On <b>macOS</b>, change the path to: "0 0 * * * find ~/Library/Application\
+                    Support/obs-studio/logs -type f -name "*.txt" -mtime +30 -delete".</cmd>
+            </step>
+            <step>
+                <cmd>In the nano editor, press Ctrl +X, then <codeph>Y</codeph>, and
+                        <codeph>Enter</codeph> to save.</cmd>
             </step>
         </steps>
     </taskbody>
