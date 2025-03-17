@@ -2,8 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_d4w_gfs_r2c">
     <title>Video Capture</title>
-    <shortdesc>These source types are generally used to add webcams and capture cards. <b>The webcam
-            capture is optional</b>.</shortdesc>
+    <shortdesc>This source type is generally used to add webcams and capture cards. <b>The webcam
+            capture is optional</b> for an agent.</shortdesc>
     <taskbody>
         <context>This section covers the steps to add webcams in screen recordings.<p>Refer to the
                 link for full list of settings for video capture. <xref
