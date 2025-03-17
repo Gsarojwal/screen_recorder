@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_pwf_pcw_r2c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Auto-delete Log Files -Windows</title>
+    <shortdesc>Agents can set a scheduler to auto-delete recording log files in a defined range of
+        days, for example 30 days.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>This section covers the steps to schedule auto-delete recording log files from an
+            Agent's machine.<p>Refer to the steps for Windows task scheduler:</p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Locate the log folder on machine.</cmd>
+                <stepxmp>C:\Users\YourUsername\AppData\Roaming\obs-studio\logs</stepxmp>
+            </step>
+            <step>
+                <cmd>Open Notepad to create a Batch Script.</cmd>
+            </step>
+            <step>
+                <cmd>In Notepad, paste the following information:</cmd>
+                <info>
+                    <p>@echo off</p>
+                    <p> set "logpath=%AppData%\obs-studio\logs"</p>
+                    <p> del /q "%logpath%*.txt"</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Save it as <b>delete_obs_logs.bat</b> (make sure it's <b>.bat</b> not
+                        <b>.txt</b>).</cmd>
+            </step>
+            <step>
+                <cmd>Open <b>Task Scheduler</b> (<codeph>Win + R</codeph>, type
+                        <codeph>taskschd.msc</codeph>, and hit Enter).</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Create Basic Task</b> → Name it <b>Delete OBS Logs</b></cmd>
+            </step>
+            <step>
+                <cmd>Set <b>Trigger</b> to "Monthly".<image href="setdaysforautodelete.PNG"
+                        id="image_kgr_42w_r2c"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose <b>Action</b> → "Start a Program" → Browse and select
+                        <codeph>delete_obs_logs.bat</codeph>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Finish</b> to save.<image href="deleteobslogssetup.PNG"
+                        id="image_uct_s2w_r2c"/></cmd>
+                <stepresult>The auto-delete task gets scheduled in an Agent's machine.</stepresult>
             </step>
         </steps>
     </taskbody>
