@@ -27,8 +27,9 @@
                 <cmd>Keep other settings as default.</cmd>
             </step>
             <step>
-                <cmd>Click <b>OK</b>.<image href="videocapturdevice.PNG" id="image_vdy_cts_r2c"
-                    /></cmd>
+                <cmd>Click <b>OK</b>.</cmd>
+                <stepxmp>Refer to the screenshot. <image href="videocapturdevice.PNG"
+                        id="image_jtc_zcy_r2c"/></stepxmp>
                 <stepresult>An integrated video capturing device is configured.</stepresult>
             </step>
         </steps>
