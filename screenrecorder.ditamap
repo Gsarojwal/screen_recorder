@@ -21,6 +21,7 @@
     </topicref>
     <topicref href="managelogs.dita">
         <topicref href="locatelogfiles.dita"/>
+        <topicref href="manualdeletelogfiles.dita"/>
         <topicref href="autodeletelogfileswindows.dita"/>
     </topicref>
 </map>
