@@ -4,10 +4,12 @@
     <title>Delete Log Files Manually</title>
     <shortdesc>Agents can manually select and delete recording log files.</shortdesc>
     <taskbody>
-        <context>This section covers the steps to manually delete log files from an Agent's
+        <context>This section covers the steps to manually delete log files from an agent's
                 machine.<p>Refer to the section<xref href="locatelogfiles.dita"/></p><table
                 frame="all" rowsep="1" colsep="1" id="table_dkv_xmw_r2c">
-                <title>Path to manually delete log files</title>
+                <title>Path to manually delete log files<draft-comment author="Gsarojwal">The manual
+                        deletion path for macOS and Linux cannot be
+                    validated.</draft-comment></title>
                 <tgroup cols="3">
                     <colspec colnum="1" colname="c1" colwidth="1*"/>
                     <colspec colnum="2" colname="c2" colwidth="1*"/>
