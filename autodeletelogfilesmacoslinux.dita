@@ -2,12 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_spm_3ww_r2c">
     <title>Auto-delete Log Files - macOS &amp; Linux</title>
-    <shortdesc>Using a Cron Job or a Shell Script the OBS Studio log files can be scheduled for
+    <shortdesc>Using a Cron Job, the OBS Studio log files can be scheduled for
             auto-deletion.<draft-comment author="Gsarojwal">These steps cannot be validated as I am
             using Windows. </draft-comment></shortdesc>
     <taskbody>
-        <context>Refer to the below mentioned steps to auto-delete log files older than 30 days.
-            <p/></context>
+        <context>Refer to the below mentioned steps to auto-delete log files older than a month (30
+            days). </context>
         <steps>
             <step>
                 <cmd>Using a Cron Job, <b>Open Terminal</b> (<codeph>Cmd + Space</codeph>, type
