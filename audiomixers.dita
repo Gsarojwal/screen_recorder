@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_i4p_tgs_r2c">
     <title>Audio Mixers</title>
-    <shortdesc>The audio mixers allows an Agent to set the audio input/output for a screen
+    <shortdesc>The audio mixers allows an agent to set the audio input/output for a screen
         recording.</shortdesc>
     <taskbody>
         <context>This section covers the audio mixers controls.</context>
