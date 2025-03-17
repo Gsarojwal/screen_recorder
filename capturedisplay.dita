@@ -16,7 +16,7 @@
             </note></context>
         <steps>
             <step>
-                <cmd>Click ‘<b>+</b>’ icon in <b>Sources </b>controls tab.</cmd>
+                <cmd>Click the ‘<b>+</b>’ icon in the <b>Sources </b>tab.</cmd>
             </step>
             <step>
                 <cmd>Select <b>Display Capture </b>from the drop-down menu.</cmd>
